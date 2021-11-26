@@ -4,38 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97c2258-4a9d-4ca6-9738-0a6ffdb5730c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aula.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Contato/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sobre/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../navegacao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../navegacao/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/.idea/primeiro-app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../primeiro-app/src/index.js" beforeDir="false" />
+    <list default="true" id="f97c2258-4a9d-4ca6-9738-0a6ffdb5730c" name="Changes" comment="12. Trabalhando com Rotas&#10;&#10;Router&#10;npm install react-router-dom">
+      <change afterPath="$PROJECT_DIR$/src/pages/Erro/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Produto/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +53,23 @@
       <updated>1637838758681</updated>
       <workItem from="1637838760163" duration="2816000" />
       <workItem from="1637870447351" duration="6358000" />
-      <workItem from="1637953574656" duration="1944000" />
+      <workItem from="1637953574656" duration="4500000" />
     </task>
+    <task id="LOCAL-00001" summary="12. Trabalhando com Rotas&#10;&#10;Router&#10;npm install react-router-dom">
+      <created>1637955555456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637955555456</updated>
+    </task>
+    <task id="LOCAL-00002" summary="12. Trabalhando com Rotas&#10;&#10;Router&#10;npm install react-router-dom">
+      <created>1637955571860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637955571860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +86,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12. Trabalhando com Rotas&#10;&#10;Router&#10;npm install react-router-dom" />
+    <option name="LAST_COMMIT_MESSAGE" value="12. Trabalhando com Rotas&#10;&#10;Router&#10;npm install react-router-dom" />
   </component>
 </project>

@@ -3,6 +3,8 @@ import Home from './pages/Home';
 import Sobre from './pages/Sobre';
 import Contato from './pages/Contato';
 import Header from "./components/Header";
+import Erro from "./pages/Erro";
+import Produto from "./pages/Produto";
 
 const Routes1 = () => {
     return(
@@ -11,7 +13,9 @@ const Routes1 = () => {
             <Routes>
                 <Route exact path="/" element={<Home/>} />
                 <Route path="/sobre" element={<Sobre/>} />
-                <Route path="/contato" element={<Contato/>} />
+                <Route exact path="/contato" element={<Contato/>} />
+                <Route path="/produto/:id" element={<Produto/>} />
+                <Route path="*" element={<Erro/>} />
             </Routes>
         </BrowserRouter>
     )
