@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97c2258-4a9d-4ca6-9738-0a6ffdb5730c" name="Changes" comment="13. Trabalhando com Rotas p2" />
+    <list default="true" id="f97c2258-4a9d-4ca6-9738-0a6ffdb5730c" name="Changes" comment="13. Trabalhando com Rotas p2">
+      <change afterPath="$PROJECT_DIR$/../repos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/.idea/repos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/src/pages/Main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/src/pages/Repositorio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../repos/src/routers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +61,7 @@
       <workItem from="1637838760163" duration="2816000" />
       <workItem from="1637870447351" duration="6358000" />
       <workItem from="1637953574656" duration="5374000" />
+      <workItem from="1638203949098" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="12. Trabalhando com Rotas&#10;&#10;Router&#10;npm install react-router-dom">
       <created>1637955555456</created>
